@@ -7,7 +7,7 @@ tracker_type = '';
 % %% Mask R-CNN (frcnn)
 sigma_l = 0;
 sigma_h = 0.98;
-sigma_iou = 0.6;
+sigma_iou = 0.7;
 t_min = 13;
 ttl=6;
 tracker_type='KCF2';
